@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Erlangen ML
-description: Applied ML blog from theory to practice.
+description: From theory to practice: A blog for applied ML.
 github_username: vasudevanubrolu
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "erlangenML"
